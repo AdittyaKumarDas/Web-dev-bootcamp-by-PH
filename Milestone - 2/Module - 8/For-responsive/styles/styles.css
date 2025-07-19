@@ -272,6 +272,7 @@ footer {
         flex-direction: column;
         margin: 1rem;
     }
+
     .footer4 {
         padding: 30px;
     }
@@ -283,6 +284,9 @@ footer {
     .personal-data {
         flex-direction: column;
     }
+
+    
+
 
 }
 
